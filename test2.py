@@ -2,7 +2,6 @@ from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import vk_api
 import random
 import requests
-from vk_api import VkUpload
 import time
 
 vk_session = vk_api.VkApi(token='ID')
